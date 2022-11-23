@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kishore
-- Technical Consultant at Highradius
+- Software at Highradius
 - Graduate Student at California State University Chico
 
 <!---
