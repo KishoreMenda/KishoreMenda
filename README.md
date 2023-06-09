@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kishore
-- Software Engineer at Highradius
+- Former Backend Engineer at Highradius
 - Graduate Student at California State University Chico
+- UI Intern @Teradata
 
 <!---
 KishoreMenda/KishoreMenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
